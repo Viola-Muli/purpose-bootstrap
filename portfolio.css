@@ -1,0 +1,18 @@
+h1{
+    font-family:"cursive";
+    font-size: 50px;
+    font-weight: bolder;
+}
+#div1{
+    margin-top: 250px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+img{
+    width: 400px;
+    height: 300px;
+}
+#div2{
+    font-family: "JetBrains Mono ExtraBold";
+    font-weight: bolder;
+}
